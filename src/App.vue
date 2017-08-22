@@ -11,4 +11,4 @@ export default {
 };
 </script>
 
-<style src="assets/stylus/main.styl" lang="stylus"></style>
+<style lang="styl" src="@/assets/stylus/main.styl"></style>
